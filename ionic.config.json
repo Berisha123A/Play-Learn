@@ -1,0 +1,7 @@
+{
+  "name": "Play & Learn ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
